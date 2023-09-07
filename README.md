@@ -1,4 +1,4 @@
-# Django REST Framework User Authentication and Testing API
+# Django REST Framework User Authentication and Testing API with MongoDB
 
 This Django REST Framework (DRF) project provides user authentication endpoints for login and signup, along with an example protected endpoint for testing authentication. This README will guide you through the project structure, installation, API usage, and testing.
 
